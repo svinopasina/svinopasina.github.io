@@ -1,0 +1,197 @@
+.container{
+	width: 1000px;
+	margin:0 auto;
+}
+.link{
+	font-family:;
+	color: #000;
+	text-decoration:none;
+	padding: 5px 7px;
+	font-size: 16px;
+	display: inline-block;
+}
+.main_logo{
+	width: 140px;
+	position: absolute;
+	top:10px;
+}
+.main_menu{
+	display: inline-block;
+}
+.o_nas{
+	display: inline-block;
+	margin-left:100px; 
+	padding-left: 90px;
+}
+.shapka{
+	position: fixed !important;
+	width:1000px;
+	height: 35px;
+	background-color: white;
+	z-index:999;
+	margin-top: 0px;
+	padding-top: 0px;
+	top:0px;
+	padding-bottom: 10px;
+}
+.class{
+	position:fixed;
+	left:120px;
+	top:-7px;
+	min-width: 960px;
+	position: relative;
+}
+.top_reklama{
+	position:absolute;
+	top:50px;
+	left:212px;
+}
+
+.viewport{
+    width: 747px;
+    height: 380px;
+    overflow: hidden;
+    position: relative;
+    left:-9px;
+}
+.slidewrapper{
+    position: absolute;
+    left:0px;
+    top:163px;
+    height: 380px;
+    margin: 0; 
+}
+.slide{
+    width: 750px;
+    height: 380px;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding-bottom: 100px;
+    background: #000000 100% 100%;
+    
+}
+.slider {
+ z-index: 9;
+ width: 750px;
+ height: 380px;
+ overflow: hidden;
+ margin: 0 0 0px;
+ position: relative;
+ top: 50px;
+ left:0px;
+
+ }
+ .slider ul,
+ .slider li {
+ padding: 0;
+ margin: 0;
+ list-style-type: none;
+ }
+ .slider ul {
+ width: 9999px; 
+ }
+ .slider ul li {
+ list-style-type: none;
+ float: left;
+ width: 750px;
+ height: 380px;
+ }
+ .slider .nav {
+ position: absolute;
+ left: 15px;
+ bottom: 0px; 
+ }
+ .slider .nav span {
+ }
+ .slider .nav span.on {
+ background: #2e9419;
+ }
+}
+.lagar{
+	position: absolute;
+	left:10px;
+}
+.reklamka{
+	position: relative;
+	top:42px;
+	right:0px;
+	bottom:-50px;
+}
+.contine{
+	width:750px;
+	display: block;
+	padding-top:80px;
+	float: left;
+}
+.levo{
+	float:left;
+}
+.pravo{
+	float: right;
+}
+.postik{
+	width: 370px;
+	height: 220px;
+	padding-bottom: 20px;
+}
+.trans{
+	display: inline-block;
+}
+.imago{
+	width:240px;
+	height: 231px;
+}
+.vtoro{
+	text-align: center;
+	margin-top: -15px;
+	font-size: 13px;
+	color:#9e9e9e;
+}
+a{
+	text-decoration: none;
+}
+pre{
+	font-family: georgia, sans-serif, verdana;
+}
+.button{
+	text-align: center;
+	font-family: georgia, sans-serif, verdana;
+	font-size: 17px;
+}
+.load{
+	text-align: center;
+	margin-right: 250px;
+	position: relative;
+	top:40px;
+	color: black;
+	padding-bottom: 60px;
+}
+.clear{
+	clear: both;
+}
+.black{
+	color: black;
+}
+.righter{
+	float:right;
+
+}
+.glav{
+	position: relative;
+	display: block;
+	background:#fff;
+	width:370px;
+	height: 72px;
+	z-index: 100;
+	margin-top:-57px;
+	text-align: center;
+	text-decoration: none;
+	font-family: georgia, sans-serif, verdana;
+}
+.pervo{
+	font-size: 21px;
+	margin-top:0px;
+	padding-top: 10px;
+	color:black;
+}
